@@ -1,0 +1,18 @@
+*{margin:auto;padding:0;list-style-type:none;}
+
+.case_box{position:relative;margin:auto;width:1000px;height:300px;overflow:hidden}
+.case_box p{z-index:2;position:absolute;text-indent:-9999px;width:28px;height:51px;top:40%;cursor:pointer}
+.case_box .prev{text-indent:-9999px;background:url(../img/previous.png) no-repeat;left:0px}
+.case_box .next{background:url(../img/next.png) no-repeat;top:40%;right:0px}
+.case_box ul{position:absolute;height:300px;overflow:hidden;top:0px;left:0px}
+.case_box ul li{width:1000px;float:left;height:300px}
+
+.case_box ul li.case_1{background:url(../img/2.jpg) no-repeat center top}
+.case_box ul li.case_2{background:url(../img/2.jpg) no-repeat center top}
+.case_box ul li.case_3{background:url(../img/2.jpg) no-repeat center top}
+.case_box ul li.case_4{background:url(../img/2.jpg) no-repeat center top}
+.case_box ul li.case_5{background:url(../img/2.jpg) no-repeat center top}
+.case_box ul li.case_6{background:url(../img/2.jpg) no-repeat center top}
+
+
+

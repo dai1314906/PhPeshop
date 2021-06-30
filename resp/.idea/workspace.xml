@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5359300e-e865-4093-b068-4e4769ea9d6c" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="php2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1VdrciIFnxowEFellJxQpwT2cBV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../notresp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\www\php2\admin\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\www\php2" />
+      <recent name="D:\www\php2\admin" />
+      <recent name="D:\www\php2\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.retextuser.php">
+    <configuration name="register.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/register.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="retextuser.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/admin/retextuser.php">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.retextuser.php" />
+        <item itemvalue="PHP Script.register.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5359300e-e865-4093-b068-4e4769ea9d6c" name="默认的" comment="" />
+      <created>1576589166009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576589166009</updated>
+      <workItem from="1577593895339" duration="7819000" />
+      <workItem from="1577603605523" duration="4481000" />
+      <workItem from="1577612586061" duration="27299000" />
+      <workItem from="1577676201460" duration="41361000" />
+      <workItem from="1577763195371" duration="23819000" />
+      <workItem from="1577811311899" duration="75000" />
+      <workItem from="1577816291254" duration="1022000" />
+      <workItem from="1577854237862" duration="28606000" />
+      <workItem from="1577928855748" duration="1039000" />
+      <workItem from="1577930665381" duration="6521000" />
+      <workItem from="1577946729111" duration="6074000" />
+      <workItem from="1577959350365" duration="5462000" />
+      <workItem from="1578071428980" duration="5129000" />
+      <workItem from="1581650100338" duration="1270000" />
+      <workItem from="1581662524200" duration="22000" />
+      <workItem from="1581662652006" duration="226000" />
+      <workItem from="1581662896409" duration="32000" />
+      <workItem from="1581662937866" duration="6000" />
+      <workItem from="1581663378617" duration="307000" />
+      <workItem from="1581663756258" duration="608000" />
+      <workItem from="1581668138701" duration="524000" />
+      <workItem from="1591034353551" duration="565000" />
+      <workItem from="1591063426918" duration="434000" />
+      <workItem from="1591893668393" duration="297000" />
+      <workItem from="1591967510364" duration="6314000" />
+      <workItem from="1592025845157" duration="6524000" />
+      <workItem from="1592479177585" duration="1026000" />
+      <workItem from="1592500719772" duration="2596000" />
+      <workItem from="1592553683626" duration="1030000" />
+      <workItem from="1592555631141" duration="5984000" />
+      <workItem from="1592568215295" duration="308000" />
+      <workItem from="1592570210946" duration="7188000" />
+      <workItem from="1592583809779" duration="7500000" />
+      <workItem from="1592618594850" duration="17982000" />
+      <workItem from="1592659379307" duration="4786000" />
+      <workItem from="1592668570192" duration="688000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="0" key="#PHP" timestamp="1591893866944">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="0" key="#PHP/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591893866944" />
+    <state x="2610" y="218" key="FileChooserDialogImpl" timestamp="1592668576594">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="218" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592668576594" />
+    <state width="1867" height="332" key="GridCell.Tab.0.bottom" timestamp="1592583665106">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592583665106" />
+    <state width="1867" height="332" key="GridCell.Tab.0.center" timestamp="1592583665106">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592583665106" />
+    <state width="1867" height="332" key="GridCell.Tab.0.left" timestamp="1592583665105">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592583665105" />
+    <state width="1867" height="332" key="GridCell.Tab.0.right" timestamp="1592583665106">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592583665106" />
+    <state width="1867" height="332" key="GridCell.Tab.1.bottom" timestamp="1592583665106">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592583665106" />
+    <state width="1867" height="332" key="GridCell.Tab.1.center" timestamp="1592583665106">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592583665106" />
+    <state width="1867" height="332" key="GridCell.Tab.1.left" timestamp="1592583665106">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592583665106" />
+    <state width="1867" height="332" key="GridCell.Tab.1.right" timestamp="1592583665106">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="332" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592583665106" />
+    <state x="2651" y="426" key="NewPhpFileDialog" timestamp="1592650881017">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2651" y="426" key="NewPhpFileDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592650881017" />
+    <state x="139" y="0" key="SettingsEditor" timestamp="1592557603157">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="139" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592557603157" />
+    <state x="2514" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1592659379459">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2514" y="303" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592659379459" />
+    <state x="475" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592555631986" />
+    <state x="2459" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1592591148957">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2459" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1592591148957" />
+  </component>
+</project>
